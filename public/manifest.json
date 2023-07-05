@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://romany-mounir.github.io/react-todo/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
